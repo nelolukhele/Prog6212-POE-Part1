@@ -1,0 +1,24 @@
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\Time Management app.exe
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\Time Management app.deps.json
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\Time Management app.runtimeconfig.json
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\Time Management app.dll
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\Time Management app.pdb
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app_MarkupCompile.cache
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app_MarkupCompile.lref
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.g.resources
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.AssemblyInfoInputs.cache
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.AssemblyInfo.cs
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.csproj.CoreCompileInputs.cache
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.dll
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\refint\Time Management app.dll
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.pdb
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.genruntimeconfig.cache
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\ref\Time Management app.dll
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.csproj.AssemblyReference.cache
+C:\Users\Nelo\source\repos\Time Management app\Time Management app\obj\Debug\net6.0-windows\Time Management app.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\Nelo\source\repos\Time Management app\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll
